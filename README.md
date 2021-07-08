@@ -1,4 +1,4 @@
-# CUBA exmaple with and without Brian
+# CUBA example with and without Brian
 
 This repo is a simple example of converting a Brian script into pure Python using numba.
 
